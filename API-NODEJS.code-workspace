@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [],
+		"java.compile.nullAnalysis.mode": "automatic",
+		"liveServer.settings.port": 5501
+	}
+}
