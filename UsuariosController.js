@@ -27,6 +27,7 @@ usuariosController.guardar= function(request,response) {
         ) 
         modelUsuarios.guardar(post,function(respuesta))
         response.json(respuesta)    
+        
 }
 
 usuariosController.listarUsuarios=function(request, response){
